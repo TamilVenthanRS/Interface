@@ -1,4 +1,6 @@
-# Interface
+### EX NO:09
+### DATE:
+# <p align="center">Interface</p> 
 
 ## Aim:
   To write a C# program using interface concept
